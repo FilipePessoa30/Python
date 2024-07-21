@@ -1,0 +1,5 @@
+Vantagens da Instrução match	Vantagens da Estrutura if
+Lidar com condições complexas e múltiplos padrões de maneira mais intuitiva.	Implementação clássica e amplamente conhecida.
+Sintaxe concisa melhora a legibilidade do código, especialmente em casos complexos.	Amplamente suportada em todas as versões do Python.
+Permite desestruturação direta, evitando repetição excessiva de variáveis.	Estrutura simples e direta para lógica condicional básica.
+Adiciona expressividade ao código, especialmente em situações de correspondência de padrões.	Pode ser mais intuitiva para devs familiarizados com estruturas de controle convencionais.
