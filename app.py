@@ -74,6 +74,7 @@ def ativar_restaurante():
     retornar_menu()
     
 def escolher_opcao():
+    '''Isso é uma docstring que descreve o que a função faz'''
     try:
         opcao = int(input('Digite a opção desejada: '))
 
