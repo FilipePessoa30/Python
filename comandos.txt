@@ -1,0 +1,27 @@
+lista os pips instalados
+pip freeze
+
+instalar o requests
+pip install requests
+
+criar ambiente virtual
+python -m venv env
+
+para outros ambientes
+python -m virtualenv env
+
+executa ambiente virtual
+...env\Scripts\Activate
+
+desativar ambiente virtual
+deactivate
+
+criar o arquivo txt do requirements
+pip freeze > requirements.txt
+
+
+
+Se você precisa de recursos avançados, como suporte a várias versões do Python ou 
+personalização detalhada, o virtualenv é uma escolha sólida.
+Se você deseja simplicidade e não precisa de recursos extras, o venv é 
+uma opção conveniente, especialmente porque já faz parte da biblioteca padrão do Python.
